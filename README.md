@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ###### Atualizado em: Março 14, 2024 - 11:57 UTC-3 (Horário Oficial de Brasília, BRT)
 
 <h1 align="center">
