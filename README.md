@@ -1,7 +1,7 @@
 ###### Atualizado em: Março 15, 2024 - 12:21 UTC-3 (Horário Oficial de Brasília, BRT)
 
 <h1 align="center">
-  <img align="center" alt="SBSI" height="100" width="220" src="https://sbsi2024.ufjf.br/assets/images/sbsi2024.png"> <br>
+  <img align="center" alt="SBSI" height="100" width="240" src="https://sbsi2024.ufjf.br/assets/images/sbsi2024.png"> <br>
   <br>
    Persona and issue analysis on tourism social media: a case study of Pirenópolis, Goiás, Brazil
   <br>
