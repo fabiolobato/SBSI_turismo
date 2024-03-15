@@ -1,5 +1,13 @@
 ###### Atualizado em: Março 15, 2024 - 12:21 UTC-3 (Horário Oficial de Brasília, BRT)
 
+[![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/fabiolobato/SBSI_turismo/issues) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/fabiolobato/SBSI_turismo/pulls) 
+[![HitCount](https://views.whatilearened.today/views/github/fabiolobato/SBSI_turismo.svg)](https://github.com/coderjojo/creative-profile-readme) 
+[![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](http://laca-ufopa.com.br/)
+
+
+
+
 <h1 align="center">
   <img align="center" alt="SBSI" height="80" width="280" src="https://sbsi2024.ufjf.br/assets/images/sbsi2024.png"> <br>
   <br>
