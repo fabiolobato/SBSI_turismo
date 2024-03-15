@@ -85,6 +85,3 @@ O presente trabalho lida com a crescente quantidade de dados não estruturados d
   </tr>
 </table>
 
-=======
-# SBSI_turismo
->>>>>>> e9ff5f81e3fa123af1e766b786e8f1e54bade32b
