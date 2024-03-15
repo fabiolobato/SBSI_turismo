@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Este repositório contém a base de dados e os resultados do artigo publicado nos anais do <br> XX Brazilian Symposium on Information Systems (SBSI 2024), Maio, 2024, Juiz de Fora, Brasil</h4>
+<h4 align="center">Este repositório contém as bases de dados e resultados do artigo publicado nos anais do <br> XX Brazilian Symposium on Information Systems (SBSI 2024), Maio, 2024, Juiz de Fora, Brasil</h4>
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
