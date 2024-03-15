@@ -59,18 +59,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="http://lattes.cnpq.br/2201818644935012">
-        <img src="https://avatars.githubusercontent.com/u/69174689?v=4" width="100px;" alt="Foto da Gabi"/><br>
-        <sub>
-          <b>Gabriele S. Araújo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="http://lattes.cnpq.br/8316643293931169">
         <img src="https://avatars.githubusercontent.com/u/88400274?v=4" width="100px;" alt="Foto do John"/><br>
         <sub>
           <b>Jonathan Oliveira Fernandez</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="http://lattes.cnpq.br/2201818644935012">
+        <img src="https://avatars.githubusercontent.com/u/69174689?v=4" width="100px;" alt="Foto da Gabi"/><br>
+        <sub>
+          <b>Gabriele S. Araújo</b>
         </sub>
       </a>
     </td>
