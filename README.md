@@ -1,4 +1,4 @@
-###### Atualizado em: Março 15, 2024 - 12:21 UTC-3 (Horário Oficial de Brasília, BRT)
+###### Atualizado em: Março 15, 2024 - 15:21 UTC-3 (Horário Oficial de Brasília, BRT)
 
 [![GitHub issues](https://img.shields.io/github/issues/fabiolobato/SBSI_turismo)](https://github.com/fabiolobato/SBSI_turismo/issues) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg?style=flat-square)](https://github.com/fabiolobato/SBSI_turismo/pulls) 
@@ -46,7 +46,7 @@
 > Outros pontos relevantes
 - Contribuímos para a discussão sobre sistemas na era da inovação baseada em dados abertos conectados [Boscarioli et al. 2017](https://www2.sbc.org.br/ce-si//arquivos/GranDSI-BR_Ebook-Final.pdf);
 - Atuamos com o conceito de _human-in-the-loop_, envolvendo especialistas de domínio em todas as etapas, desde a coleta até a geração de _insights_;
-- O _pipeline_ experimental traz avanços na aplicação de técnicas de mineração de textos, com destaque para a Modelagem de Tópicos baseada no uso de modelos de linguagem (_e.g._, BERT) e algoritmos de clusterização, como _K-Means_ combinado ao Doc2Vec, para a segmentação de clientes;
+- O _pipeline_ experimental traz avanços na aplicação de técnicas de mineração de textos, com destaque para a Modelagem de Tópicos baseada no uso de representações _word embeddings_ (_e.g._, BERT) e algoritmos de clusterização (_e.g._, _K-Means_) combinado com o Doc2Vec para a segmentação de clientes;
 - Contribuímos na automatização de processos de análise de dados para aumentar a eficiência operacional das empresas de turismo e facilitar a tomada de decisões estratégicas.
 
 
