@@ -1,4 +1,4 @@
-###### Atualizado em: Março 15, 2024 - 15:21 UTC-3 (Horário Oficial de Brasília, BRT)
+###### Atualizado em: Março 18, 2024 - 11:34 UTC-3 (Horário Oficial de Brasília, BRT)
 
 [![GitHub issues](https://img.shields.io/github/issues/fabiolobato/SBSI_turismo)](https://github.com/fabiolobato/SBSI_turismo/issues) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg?style=flat-square)](https://github.com/fabiolobato/SBSI_turismo/pulls) 
@@ -15,7 +15,7 @@
   <br>
 </h1>
 
-<h4 align="center">Este repositório contém as bases de dados e resultados do artigo publicado nos anais do <br> XX Brazilian Symposium on Information Systems (SBSI 2024), Maio, 2024, Juiz de Fora, Brasil</h4>
+<h4 align="center">Este repositório contém as bases de dados e resultados do artigo publicado nos anais do <br> XX Brazilian Symposium on Information Systems (<a href="https://sbsi2024.ufjf.br/">SBSI 2024</a>), Maio, 2024, Juiz de Fora, Brasil</h4>
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
