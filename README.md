@@ -93,3 +93,23 @@
   </tr>
 </table>
 
+## Citation 
+```
+@inproceedings{10.1145/3658271.3658340,
+author = {Ara\'{u}jo, Gabriele De Sousa and Fernandez, Jonathan Oliveira and Da Silva, Marcelino Silva and Lobato, F\'{a}bio Manoel Fran\c{c}a},
+title = {Persona and issue analysis on tourism social media: a case study of Piren\'{o}polis, Goi\'{a}s, Brazil},
+year = {2024},
+isbn = {9798400709968},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3658271.3658340},
+doi = {10.1145/3658271.3658340},
+booktitle = {Proceedings of the 20th Brazilian Symposium on Information Systems},
+articleno = {68},
+numpages = {10},
+keywords = {Booking.com, Text Mining, Topic modeling, Tourism, TripAdvisor, User profile},
+location = {<conf-loc>, <city>Juiz de Fora</city>, <country>Brazil</country>, </conf-loc>},
+series = {SBSI '24}
+}
+```
+
